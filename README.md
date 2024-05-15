@@ -13,3 +13,7 @@ npx expo install @react-native-community/datetimepicker@6.5.2
 yarn start
 ```
 For a better development experience use Node 16.17.0
+
+<img src="/ss/login.png" width="250" height='500'>
+
+#### Login View
