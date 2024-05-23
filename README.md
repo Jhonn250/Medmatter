@@ -16,18 +16,18 @@ For a better development experience use Node 16.17.0
 <p float="left">
   <img src="/ss/login.png" width="250" height='500' />
   <img src="/ss/mainmenu.png" width="250" height='500' />
-  <img src="/settingsview.png" width="250" height='500' />
-  <img src="/newAccount.png" width="250" height='500' />
+  <img src="/ss/settingsview.png" width="250" height='500' />
+  <img src="/ss/newAccount.png" width="250" height='500' />
 </p>
 <p float="left">
   <img src="/ss/addmedicprofile.png" width="250" height='500' />
   <img src="/ss/aiview.png" width="250" height='500' />
-  <img src="/appointmentsview.png" width="250" height='500' />
-  <img src="/drugsview.png" width="250" height='500' />
+  <img src="/ss/appointmentsview.png" width="250" height='500' />
+  <img src="/ss/drugsview.png" width="250" height='500' />
 </p>
 <p float="left">
   <img src="/ss/exportview.png" width="250" height='500' />
   <img src="/ss/trackingview.png" width="250" height='500' />
-  <img src="/trakinggraph.png" width="250" height='500' />
+  <img src="/ss/trakinggraph.png" width="250" height='500' />
 </p>
 
